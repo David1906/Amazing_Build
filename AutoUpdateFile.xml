@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-	<version>1.0.6.0</version>
+	<version>1.0.7.0</version>
 	<url>https://David1906.github.io/Amazing_Build/Amazing.zip</url>
+	<changelog>https://github.com/David1906/Amazing_Build</changelog>
 	<mandatory>false</mandatory>
 </item>
