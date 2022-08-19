@@ -2,6 +2,12 @@
 
 **Changelog:**
 
+1.0.8
+
+- Add load sheet report footer in settings.   
+- Fix: Quantity in load sheets.
+- Added link to changelog in about page.
+
 1.0.7
 
 - Part numbers that are the same as the parent are not considered as alternates.    
