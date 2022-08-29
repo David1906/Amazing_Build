@@ -1,8 +1,14 @@
 ## Amazing
 
-[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_8.zip)
+[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_9.zip)
 
 **Changelog:**
+
+1.0.9
+
+- Fix: Load sheet report part number.   
+- Added header page number.
+- Load sheet report altern data as #.
 
 1.0.8
 
