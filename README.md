@@ -1,20 +1,26 @@
 ## Amazing
 
-[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_9.zip)
+[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_10.zip)
 
 **Changelog:**
 
+1.0.10
+
+- Added option to export load sheet report by table.
+- Change in load sheet report´s head format and print format.
+- Fix: Value type of quantity in load sheet report.
+
 1.0.9
 
-- Fix: Load sheet report part number.   
 - Added header page number.
 - Load sheet report altern data as #.
+- Fix: Load sheet report part number.   
 
 1.0.8
 
 - Add load sheet report footer in settings.   
-- Fix: Quantity in load sheets.
 - Added link to changelog in about page.
+- Fix: Quantity in load sheets.
 
 1.0.7
 
