@@ -1,8 +1,14 @@
 ## Amazing
 
-[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_10.zip)
+[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_11.zip)
 
 **Changelog:**
+
+1.0.11
+
+- Set load sheet print area by table.
+- Change load sheet report style.
+- Fix: Minor bugs.
 
 1.0.10
 
