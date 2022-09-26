@@ -1,8 +1,14 @@
 ## Amazing
 
-[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_11.zip)
+[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_12.zip)
 
 **Changelog:**
+
+1.0.12
+
+- Validate duplicate references in pick and place progams.
+- Add checkbox to show or hide load sheet warnings.
+- Fix: Quantity in load sheets is now calculated based on placements insted of references quantity.
 
 1.0.11
 
