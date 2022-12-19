@@ -1,8 +1,14 @@
 ## Amazing
 
-[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_12_1.zip)
+[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_13.zip)
 
 **Changelog:**
+
+1.0.13
+
+- Add end row in sheets that ends with a parent part number needed for SFC.
+- Fix: Trim csv and bom values to avoid differences between part numbers and references.
+- Fix: Product qty control can be erased.
 
 1.0.12
 
