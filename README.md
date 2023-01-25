@@ -1,8 +1,15 @@
 ## Amazing
 
-[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_13_1.zip)
+[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_14.zip)
 
 **Changelog:**
+
+1.0.14
+
+- Set gray background to part numbers with relative humidity gratter than 2.
+- Fix: Tray track naming.
+- Fix: Tolerance calc.
+- Fix: Item indexing.
 
 1.0.13
 
