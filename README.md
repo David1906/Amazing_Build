@@ -1,8 +1,14 @@
 ## Amazing
 
-[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_14_1.zip)
+[<img src="https://David1906.github.io/Amazing_Build/src/img/btn_download.png">](https://David1906.github.io/Amazing_Build/build/Amazing_1_0_15.zip)
 
 **Changelog:**
+
+1.0.15
+
+- Add bom revision to load sheets.
+- Fix: Trim references in BOM and pick and place report.
+- Fix: Adjust printing area.
 
 1.0.14
 
